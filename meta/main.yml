@@ -1,0 +1,10 @@
+galaxy_info:
+  author: Chen Raz
+  description: Elasticsearch with docker
+  company: your company (optional)
+  license: license (GPL-2.0-or-later, MIT, etc)
+  min_ansible_version: 2.9
+  galaxy_tags: []
+
+dependencies:
+  - geerlingguy.docker
